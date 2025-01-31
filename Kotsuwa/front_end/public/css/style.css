@@ -846,8 +846,8 @@ div#root {
   .slider_image-div{
       width: 100%;
       height: auto;
-      background-color: #833838;
-      /* overflow: hidden; */
+      /* background-color: #833838; */
+      overflow: hidden;
     }
     .card-container{
       width: 100%;

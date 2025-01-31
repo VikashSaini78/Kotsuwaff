@@ -23,7 +23,7 @@ function Navbar() {
         
       <>
 
-            <div className="full_navcntainer">
+            {/* <div className="full_navcntainer"> */}
 
 
            {/* <div className="navcontant_container">
@@ -75,7 +75,7 @@ function Navbar() {
         </div>
       </div>
     </div>
-  </div> 
+  {/* </div>  */}
         </>
      );
 }

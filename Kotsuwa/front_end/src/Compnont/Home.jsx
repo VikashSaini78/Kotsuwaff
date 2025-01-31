@@ -86,7 +86,7 @@ return (
     </div>
   </div>
 </section>
-<section className="sectionBx pt-5 pb-5 bkWhite">
+<section className="sectionBx pt-5 bkWhite">
   <div className="container">
     <div className="row justify-content-center">
       <div className="col-lg-12">
