@@ -2,7 +2,10 @@
 import { Link } from "react-router-dom";
 import { IoSearchOutline } from "react-icons/io5";
 import { FaBars } from "react-icons/fa6";
-
+// import { IoLocationOutline } from "react-icons/io5";
+// import { FaRegCircleCheck } from "react-icons/fa6";
+// import { MdOutlineEmail } from "react-icons/md";
+// import { HiOutlineShoppingBag } from "react-icons/hi";
 import { useState } from "react";
 
 function Navbar() {
@@ -17,9 +20,13 @@ function Navbar() {
    };
 
     return ( 
-        <>
-           {/* <div className="full_navcntainer">
-           <div className="navcontant_container">
+        
+      <>
+
+            <div className="full_navcntainer">
+
+
+           {/* <div className="navcontant_container">
            <div className="address_div">
            <p ><i><IoLocationOutline /></i>Sitapura, Jaipur, Rajasthan</p>
            <li className="b-lf">
@@ -40,9 +47,9 @@ function Navbar() {
               </div>
 
               </div>
-           </div>
-
            </div> */}
+
+         
 
       <div className="navbar_container">
       <div className="nav_logo">
@@ -68,7 +75,7 @@ function Navbar() {
         </div>
       </div>
     </div>
-
+  </div> 
         </>
      );
 }

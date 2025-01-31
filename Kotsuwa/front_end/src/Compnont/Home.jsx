@@ -106,33 +106,33 @@ return (
       </div>
       <div className="col-lg-3 col-md-4 col-sm-6 col-6">
         <div className="card_image-div">
-          <img className="img-fluid" src="media/inimage9.webp" alt="" />
+          <img className="img-fluid" src="media/coton1.png" alt="" />
         </div>
       </div>
       <div className="col-lg-3 col-md-4 col-sm-6 col-6">
         <div className="card_image-div">
-          <img className="img-fluid" src="media/inimage6.webp" alt="" />
+          <img className="img-fluid" src="media/coton2.png" alt="" />
         </div>      
       </div>
       <div className="col-lg-3 col-md-4 col-sm-6 col-6">
         <div className="card_image-div">
-          <img className="img-fluid" src="media/inimage7.webp" alt="" />
+          <img className="img-fluid" src="media/coton3.jpg" alt="" />
         </div>      
       </div>
       <div className="col-lg-3 col-md-4 col-sm-6 col-6">
         <div className="card_image-div">
-          <img className="img-fluid" src="media/inimage8.webp" alt="" />
+          <img className="img-fluid" src="media/cotton1.jpg" alt="" />
         </div> 
       </div>
 
       <div className="col-lg-3 col-md-4 col-sm-6 col-6">
         <div className="card_image-div">
-          <img className="img-fluid" src="media/inimage10.webp" alt="" />
+          <img className="img-fluid" src="media/cotton2.jpg" alt="" />
         </div> 
       </div>
       <div className="col-lg-3 col-md-4 col-sm-6 col-6">
         <div className="card_image-div">
-          <img className="img-fluid" src="media/inimage11.webp" alt="" />
+          <img className="img-fluid" src="media/cotton4.jpg" alt="" />
         </div> 
       </div>
     </div>
@@ -152,15 +152,15 @@ return (
       <div className="col-lg-12">
         <Slider {...settings}>
           <div className="slider_cardimg-div">
-            <img className="img-fluid" src="media/inimage10.webp" alt="Cotton Bag 1" />
+            <img  src="media/cotton14.jpg" alt="Cotton Bag 1" />
             {/* 
             <div><button>Cotton Bags</button></div>
             */}
           </div>
           <div className="slider_cardimg-div">
-            <img className="img-fluid" src="media/inimage11.webp" alt="Cotton Bag 2" />
+            <img  src="media/inimage11.webp" alt="Cotton Bag 2" />
             {/* 
-            <div><button>Cotton Bags</button></div>
+            <div><button>Cotton Bags</button></div>        
             */}
           </div>
           <div className="slider_cardimg-div">

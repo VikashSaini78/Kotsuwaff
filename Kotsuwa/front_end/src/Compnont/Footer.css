@@ -44,6 +44,16 @@ footer{
     padding: 4px    ;
     margin: 0;
 }
+.footer_link{
+    color: rgb(46, 46, 46);
+    text-decoration: none;
+
+}
+.footer_link:hover{
+    color: rgb(233, 98, 35);
+    text-decoration: underline;
+
+}
 
 .Catalog_div p:hover{
     color: rgb(233, 98, 35);
@@ -74,9 +84,7 @@ footer{
     width: 150px;
 }
 .socal_media-icons{
-    /* width: 200px; */
-    /* background-color: rgb(79, 137, 187); */
-    gap: 7px;
+   gap: 7px;
     display: flex; 
  
 }
@@ -93,9 +101,9 @@ footer{
     justify-content: center;
     align-items: center;
     color: rgb(255, 255, 255);
-border: 1px solid rgb(73, 73, 73);
-background-color: rgba(34, 34, 34, 0.63);
-border-radius: 50%;
+    border: 1px solid rgb(73, 73, 73);
+    background-color: rgba(34, 34, 34, 0.63);
+    border-radius: 50%;
 }
 
 @media (max-width: 768px) {

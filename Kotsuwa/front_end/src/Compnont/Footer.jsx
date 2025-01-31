@@ -45,9 +45,9 @@ function Footer() {
       <h6>Contact Info</h6>
      <p>Irfan Ali Ansari (President)</p>
      <p>🏭 Add-117B, Ram Nagar,<br/>
-      Toll Tax, Tehsil Sanganer, Jaipur, Raj. ,302022</p>
+      Toll Tax, Tehsil Sanganer, Jaipur <br/>Raj. ,302022</p>
      <p>Contact No. - 70-234-70-489</p>
-     <p><Link>kotsuwaindustry@gmail.com</Link> </p>
+     <p><Link className='footer_link'>kotsuwaindustry@gmail.com</Link> </p>
 
       </div>
       </div>
