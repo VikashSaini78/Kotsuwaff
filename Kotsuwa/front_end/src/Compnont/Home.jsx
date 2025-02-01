@@ -206,30 +206,31 @@ return (
           </div>
           <div className="Testimonial_div">
             <h2>Testimonial</h2>
+
             <div className="text_slider">
-                <div id="carouselExampleSlidesOnly" className="carousel slide" data-bs-ride="carousel">
-                  <div className="carousel-inner">
-                      <div className="carousel-item active">
-                        <p>"Congratulations!!! This is awesome!!! You truly are the Indian BAGMAN! I always liked that Sekawati focused on particular product. Not many business owners can do that. </p>
-                        <p> People tend to expand their business in wrong way (in my opinion). And I appreciate your flexibility that you accepted my request for sourcing organic cotton for my bags, even the order was so small back then!"</p>
-                        <h5>ASAKO MARUNO</h5>
-                        <h6>GREEN TEE , JAPAN</h6>
-                      </div>
-                      <div className="carousel-item">
-                        <p>"Congratulations!!! This is awesome!!! You truly are the Indian BAGMAN! I always liked that Sekawati focused on particular product. Not many business owners can do that. </p>
-                        <p> People tend to expand their business in wrong way (in my opinion). And I appreciate your flexibility that you accepted my request for sourcing organic cotton for my bags, even the order was so small back then!"</p>
-                        <h5>ASAKO MARUNO</h5>
-                        <h6>Vikash  , JAPAN</h6>
-                      </div>
-                      <div className="carousel-item">
-                        <p>"Congratulations!!! This is awesome!!! You truly are the Indian BAGMAN! I always liked that Sekawati focused on particular product. Not many business owners can do that. </p>
-                        <p> People tend to expand their business in wrong way (in my opinion). And I appreciate your flexibility that you accepted my request for sourcing organic cotton for my bags, even the order was so small back then!"</p>
-                        <h5>ASAKO MARUNO</h5>
-                        <h6>Rakesh , JAPAN</h6>
-                      </div>
-                  </div>
-                </div>
+        <div id="carouselExampleSlidesOnly" className="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
+        <div className="carousel-inner">
+            <div className="carousel-item active" data-bs-interval="5000">
+                <p>"The cotton bags we received are of exceptional quality. The fabric is sturdy, the stitching is flawless, and the print is vibrant. Our customers love them!"</p>
+                <h5>Sarah Miller</h5>
+                <h6>USA</h6>
             </div>
+            <div className="carousel-item" data-bs-interval="5000">
+                <p>"We've been sourcing cotton bags from this manufacturer for years, and their quality is consistently outstanding. They're durable, washable, and hold up well over time."</p>
+                <h5>John Davis</h5>
+                <h6>UK</h6>
+            </div>
+            <div className="carousel-item" data-bs-interval="5000">
+                <p>"The craftsmanship of these cotton bags is truly impressive. You can tell they're made with care and attention to detail. We're thrilled with the final product."</p>
+                <h5>Maria Sanchez</h5>
+                <h6>Canada</h6>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
           </div>
         </div>
       </div>
