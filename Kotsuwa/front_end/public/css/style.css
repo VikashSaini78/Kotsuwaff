@@ -260,21 +260,21 @@ cursor: pointer;
 
 /* business_container */
 
-   .business_container{
+   /* .business_container{
     width: 90%;
     margin: auto;
     display: flex;
     justify-content: space-between;
-    /* background-color: aquamarine; */
+    background-color: aquamarine;
 
-   }
+   } */
    .Business-Manufacturer{
     justify-content: flex-start;
     width: 100%;
     display: flex;
     font-size: 14px;
     font-weight: 400;
-    background-color: #fff;
+    /* background-color: #a55757; */
     padding: 50px 30px;
     flex-direction: column;
     align-items: center;
@@ -782,6 +782,14 @@ div#root {
     position: relative;
     text-align: center;
 }
+.about-compney{
+  font-weight: bold;
+  padding: 40px;
+  text-align: center;
+}
+/* .Business-Manufacturer{
+
+} */
 
 
 @media (max-width: 768px) {
@@ -939,24 +947,13 @@ padding: 10px;
      
   }
   
-  
-.Testimonial_container{
-width: 100%;
-height: auto;
-/* background-color: yellowgreen; */
-margin-top: 5px;
-display: flex;
-flex-direction: column-reverse;
-align-items: center; /* Center-align the content */
-text-align: center; 
-}
-.Testimonial_container h2{
-height: 11vh;
-}
+ .Testimonial_div h2{
+  height: 50px;
+ }
 .Business-Manufacturer{
 width: 100%;
 margin: auto;
-/* background-color: #4CAF50; */
+background-color: #4CAF50;
 display: block;
 justify-content: start;
 align-items: start;

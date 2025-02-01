@@ -47,45 +47,10 @@ return (
       </div>
    </div>
 </div>
-{/* colom  */}
-<section className="sectionBx pt-5 pb-5 bkgrey">
-  <div className="container">
-    <div className="row">
-      <div className="col-md-3 col-lg-3 col-sm-6 col-6">
-        <div className="Business-Manufacturer">
-          <div className="sectionIcon">
-            <img className="img-fluid" src="media/about-icon-1.png"/>
-          </div>
-            <p>Nature of Business-Manufacturer</p>
-        </div>
-      </div>
-      <div className="col-md-3 col-lg-3 col-sm-6 col-6">
-          <div className="Business-Manufacturer"> 
-            <div className="sectionIcon">         
-              <img className="img-fluid" src="media/about-icon-2.png"/>
-            </div>
-            <p>Total Number of Employees- 101 to 500r</p>
-        </div>
-      </div>
-      <div className="col-md-3 col-lg-3 col-sm-6 col-6">
-        <div className="Business-Manufacturer">
-          <div className="sectionIcon">
-            <img className="img-fluid" src="media/about-icon-3.png"/>
-          </div>
-            <p>Year of Establishment- 1991</p>
-        </div>
-      </div>
-      <div className="col-md-3 col-lg-3 col-sm-6 col-6">
-        <div className="Business-Manufacturer">
-          <div className="sectionIcon">
-            <img className="img-fluid" src="media/about-icon-4.png"/>
-          </div>
-            <p>Legal Status Firm- Proprietorship</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+  
+        
+        {/* postfolio images */}
+
 <section className="sectionBx pt-5 bkWhite">
   <div className="container">
     <div className="row justify-content-center">
@@ -188,16 +153,13 @@ return (
 </section>
 
 
-<section className="sectionBx pt-5 pb-5 testimonial-bx ">
+<section className="sectionBx pt-5 pb-4 testimonial-bx ">
   <div className="container">
     <div className="row">
       <div className="col-md-12 col-lg-12">
         <div className="testimonialBody">
           <div className="Impex_Forbes-div">
             <div className="md_container">
-                {/* 
-                <h2>Sekawati Impex at Forbes India</h2>
-                */}
                 <div className="gupata_container">
                   <Link to={"/"}>
                   <img className="img-fluid" src="media/colom14.png" alt=""/></Link>
@@ -228,15 +190,68 @@ return (
         </div>
     </div>
 </div>
-
-
-
           </div>
         </div>
       </div>
     </div>
   </div>
 </section>
+
+
+
+
+
+{/* colom  */}
+
+
+
+<section className="sectionBx pt-3 pb-3 bkgrey">
+          <h3 className="about-compney">About Company</h3>
+  <div className="container">
+    <div className="row">
+      <div className="col-md-3 col-lg-3 col-sm-6 col-6 ">
+        <div className="Business-Manufacturer">
+          <div className="sectionIcon">
+            <img className="img-fluid" src="media/about-icon-1.png"/>
+          </div>
+            <p>Nature of Business-Manufacturer</p>
+        </div>
+      </div>
+      <div className="col-md-3 col-lg-3 col-sm-6 col-6">
+          <div className="Business-Manufacturer"> 
+            <div className="sectionIcon">         
+              <img className="img-fluid" src="media/about-icon-2.png"/>
+            </div>
+            <p>Total Number of Employees- 101 to 500r</p>
+        </div>
+      </div>
+      <div className="col-md-3 col-lg-3 col-sm-6 col-6">
+        <div className="Business-Manufacturer">
+          <div className="sectionIcon">
+            <img className="img-fluid" src="media/about-icon-3.png"/>
+          </div>
+            <p>Year of Establishment- 1991</p>
+        </div>
+      </div>
+      <div className="col-md-3 col-lg-3 col-sm-6 col-6">
+        <div className="Business-Manufacturer">
+          <div className="sectionIcon">
+            <img className="img-fluid" src="media/about-icon-4.png"/>
+          </div>
+            <p>Legal Status Firm- Proprietorship</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
 {/* About Company */}
 <section className="sectionBx pt-5 pb-5 bkgrey">
   <div className="container">
