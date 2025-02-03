@@ -274,7 +274,7 @@ cursor: pointer;
     display: flex;
     font-size: 14px;
     font-weight: 400;
-    /* background-color: #a55757; */
+    background-color: #ffffff;
     padding: 50px 30px;
     flex-direction: column;
     align-items: center;
@@ -953,7 +953,7 @@ padding: 10px;
 .Business-Manufacturer{
 width: 100%;
 margin: auto;
-background-color: #4CAF50;
+background-color: #ffffff;
 display: block;
 justify-content: start;
 align-items: start;
