@@ -9,8 +9,7 @@ function Footer() {
   return (
     <>
       <footer>
-
-      <div className='container-xl'>
+      <div className='container'>
       <div className='row'>
       <div className='col-md-3'>
          <div className='footer_logo'>
@@ -64,8 +63,8 @@ function Footer() {
          <i><CiTwitter/></i>
          </div>
          <p>
-         ©2020, SEKAWATI
-         WEBSITE DESIGN & DEVELOPED BY : A R INFOTECH
+         ©2025, KOTSUWA INDUSTRY
+         WEBSITE DESIGN & DEVELOPED BY : VICKY JAITPURIYA
          </p>
          <div>
          <img src='./media/payment.png' alt=''/>
